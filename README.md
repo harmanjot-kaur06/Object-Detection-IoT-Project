@@ -30,7 +30,8 @@ The ESP32 sends data to a ThingSpeak channel using its built-in Wi-Fi. You can v
 
 ---
 
-##🙏 Acknowledgements
+##🙏 **Acknowledgements**
+
 I would like to express my heartfelt gratitude to:
 My mentors and teachers for guiding me through the basics of IoT and embedded systems.
 The online developer community for providing helpful tutorials, documentation, and support.
